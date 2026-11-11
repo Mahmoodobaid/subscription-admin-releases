@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "com.mahmoodobaid.subscriptionadmin",
-  "version": "1.0.2+3",
+  "version": "1.0.2+4",
   "versionName": "1.0.2",
-  "versionCode": 3,
+  "versionCode": 4,
   "downloadUrl": "https://github.com/Mahmoodobaid/subscription-admin-releases/releases/download/latest/subscription-admin-latest.apk",
-  "sha256": "72B9DDC9DDB4C97C4064144ED6DFE6EFD8A37740118A0730479D9147264A73FF",
+  "sha256": "32807447FD5E120723F35238E646D97C45998F5C87B2DEF8DCE6D5C34FC3679D",
   "sizeBytes": 59886661,
-  "publishedAt": "2026-11-11T21:03:15.6494658+00:00"
+  "publishedAt": "2026-11-11T22:21:57.5937139+00:00"
 }
